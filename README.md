@@ -1,0 +1,2 @@
+# Python-Final-Project-California-Housing-Price-Analysis
+This project uses data processing, visualization, and predictive modeling techniques using tools learned throughout the semester. The analysis focuses on California housing price trends using Zillow housing data, incorporating data cleaning, time series analysis, statistical modeling, and visualization to better understand housing growth patterns.
