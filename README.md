@@ -30,7 +30,8 @@ python_final_project/
 2. Install required packages (if needed):  
 ```pip install pandas matplotlib numpy scikit-learn jupyter```  
 3. Launch Jupyter Notebook:  
-``` jupyter notebook notebook.ipynb ```  
+``` jupyter notebook notebook.ipynb ```
+4. Download Zillow ZHVI, rename to zillow_housing_raw and add to drive, Fall 120 > raw_data
 # Google Colab Execution  
 1. Open Google Colab  
 2. Upload the notebook.ipynb file or connect to your GitHub repository  
