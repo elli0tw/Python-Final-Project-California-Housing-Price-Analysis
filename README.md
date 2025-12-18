@@ -56,6 +56,13 @@ python_final_project/
 - Linear regression modeling for price prediction
 - Data visualization using matplotlib
 - Modular code organization
+- Visualize time-series housing price trends per city
+- Create multi-city comparison plots
+- Calculate growth rates for major California cities
+- Apply rolling-average smoothing to reveal trends
+- Fit linear regression and polynomial regression (degree 2) models
+- Compare model predictions vs. actual prices
+- Evaluate model performance using Mean Absolute Error (MAE)
 # Key Learning Objectives Demonstrated
 - File I/O operations with pandas
 - Data cleaning and preprocessing
